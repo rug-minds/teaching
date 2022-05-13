@@ -13,6 +13,8 @@ tensorflow-metal = "*"
 jupyter = "*"
 jaxlib = "*"
 jax = {extras = ["cpu"], version = "*"}
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 
